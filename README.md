@@ -1,4 +1,4 @@
-## ⚡️✨ Anoof MA × Foresight 🔮🚀
+### ⚡️✨ Anoof MA × Foresight 🔮🚀
 
 > *“The best way to predict the future is to invent it.” — Alan Kay*  
 > **This project is my bold step into tomorrow — designed with vision, powered by AI, and guided by purpose.**
@@ -30,7 +30,7 @@
 - 💻 Obsessed with: `AI`, `LangChain`, `Ethical Innovation`  
 - 🌱 Exploring: Automation, Quantum Thinking, the Quran & the Cosmos  
 - 🧠 Strong belief in: Purposeful design + Spiritual depth  
-- 🔗 Connect: [LinkedIn](https://linkedin.com/in/anoofma) | [Email](mailto:anoofma@example.com)
+- 🔗 Connect: [LinkedIn](https://linkedin.com/in/anoof-ma) | [Email](mailto:foresightx.anoof@gmail.com)
 
 ---
 

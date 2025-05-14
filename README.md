@@ -1,0 +1,1 @@
+<h1 align="center">⚡️✨ Anoof MA × <span style="color:#00BFFF">Foresight</span> 🔮🚀</h1> <p align="center"> <em>“The best way to predict the future is to invent it.” — Alan Kay</em><br> <strong>This project is my bold step into tomorrow — designed with vision, powered by AI, and guided by purpose.</strong> </p>
